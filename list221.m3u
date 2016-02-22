@@ -1,0 +1,374 @@
+#EXTM3U
+
+#EXTINF:-1,RTP 1
+http://painel.soeu.ws:8000/live/seixas/seixas/185.m3u8
+#EXTINF:-1,RTP 2
+http://painel.soeu.ws:8000/live/seixas/seixas/184.m3u8
+#EXTINF:-1,SIC
+http://painel.soeu.ws:8000/live/seixas/seixas/183.m3u8
+#EXTINF:-1,TVI
+http://painel.soeu.ws:8000/live/seixas/seixas/191.m3u8
+#EXTINF:-1,RTP 3
+http://painel.soeu.ws:8000/live/seixas/seixas/212.m3u8
+#EXTINF:-1,SIC NOTICIAS
+http://painel.soeu.ws:8000/live/seixas/seixas/195.m3u8
+#EXTINF:-1,TVI 24
+http://painel.soeu.ws:8000/live/seixas/seixas/190.m3u8
+#EXTINF:-1,RTP MEMORIA
+http://painel.soeu.ws:8000/live/seixas/seixas/700.m3u8
+#EXTINF:-1,RTP AFRICA
+http://painel.soeu.ws:8000/live/seixas/seixas/518.m3u8
+#EXTINF:-1,RTP MADEIRA
+http://painel.soeu.ws:8000/live/seixas/seixas/697.m3u8
+#EXTINF:-1,RTP AÇORES
+http://painel.soeu.ws:8000/live/seixas/seixas/698.m3u8
+#EXTINF:-1,PORTO CANAL
+http://painel.soeu.ws:8000/live/seixas/seixas/196.m3u8
+#EXTINF:-1,ETV HD
+http://painel.soeu.ws:8000/live/seixas/seixas/707.m3u8
+#EXTINF:-1,SIC RADICAL
+http://painel.soeu.ws:8000/live/seixas/seixas/194.m3u8
+#EXTINF:-1,TVI REALTY
+http://painel.soeu.ws:8000/live/seixas/seixas/689.m3u8
+#EXTINF:-1,SIC MULHER
+http://painel.soeu.ws:8000/live/seixas/seixas/219.m3u8
+#EXTINF:-1,SIC CARAS
+http://painel.soeu.ws:8000/live/seixas/seixas/204.m3u8
+#EXTINF:-1,TVI FICCAO
+http://painel.soeu.ws:8000/live/seixas/seixas/213.m3u8
+#EXTINF:-1,GLOBO
+http://painel.soeu.ws:8000/live/seixas/seixas/512.m3u8
+#EXTINF:-1,GLOBO PREMIUM
+http://painel.soeu.ws:8000/live/seixas/seixas/511.m3u8
+#EXTINF:-1,TPA INTERNACIONAL
+http://painel.soeu.ws:8000/live/seixas/seixas/699.m3u8
+#EXTINF:-1,TV RECORD
+http://painel.soeu.ws:8000/live/seixas/seixas/189.m3u8
+#EXTINF:-1,CANÇÃO NOVA
+http://painel.soeu.ws:8000/live/seixas/seixas/694.m3u8
+#EXTINF:-1,SANTUARIO FATIMA
+http://painel.soeu.ws:8000/live/seixas/seixas/225.m3u8
+#EXTINF:-1,CANAL Q
+http://painel.soeu.ws:8000/live/seixas/seixas/198.m3u8
+#EXTINF:-1,CM TV
+http://painel.soeu.ws:8000/live/seixas/seixas/186.m3u8
+#EXTINF:-1,A BOLA TV
+http://painel.soeu.ws:8000/live/seixas/seixas/199.m3u8
+#EXTINF:-1,SPORTV 1 HD
+http://painel.soeu.ws:8000/live/seixas/seixas/193.m3u8
+#EXTINF:-1,SPORTV 1
+http://painel.soeu.ws:8000/live/seixas/seixas/286.m3u8
+#EXTINF:-1,SPORTV 2 HD
+http://painel.soeu.ws:8000/live/seixas/seixas/192.m3u8
+#EXTINF:-1,SPORTV 2
+http://painel.soeu.ws:8000/live/seixas/seixas/285.m3u8
+#EXTINF:-1,SPORTV 3 HD
+http://painel.soeu.ws:8000/live/seixas/seixas/202.m3u8
+#EXTINF:-1,SPORTV 3
+http://painel.soeu.ws:8000/live/seixas/seixas/688.m3u8
+#EXTINF:-1,SPORTV 4 HD
+http://painel.soeu.ws:8000/live/seixas/seixas/201.m3u8
+#EXTINF:-1,SPORTV 4
+http://painel.soeu.ws:8000/live/seixas/seixas/687.m3u8
+#EXTINF:-1,SPORTV 5 HD
+http://painel.soeu.ws:8000/live/seixas/seixas/200.m3u8
+#EXTINF:-1,SPORTV 5
+http://painel.soeu.ws:8000/live/seixas/seixas/686.m3u8
+#EXTINF:-1,BTV 1 HD
+http://painel.soeu.ws:8000/live/seixas/seixas/245.m3u8
+#EXTINF:-1,BTV 1
+http://painel.soeu.ws:8000/live/seixas/seixas/288.m3u8
+#EXTINF:-1,BTV 2 HD
+http://painel.soeu.ws:8000/live/seixas/seixas/209.m3u8
+#EXTINF:-1,BTV 2
+http://painel.soeu.ws:8000/live/seixas/seixas/685.m3u8
+#EXTINF:-1,SPORTING TV HD
+http://painel.soeu.ws:8000/live/seixas/seixas/203.m3u8
+#EXTINF:-1,EUROSPORT HD
+http://painel.soeu.ws:8000/live/seixas/seixas/207.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://painel.soeu.ws:8000/live/seixas/seixas/227.m3u8
+#EXTINF:-1,EUROSPORT NEWS
+http://painel.soeu.ws:8000/live/seixas/seixas/786.m3u8
+#EXTINF:-1,PFC
+http://painel.soeu.ws:8000/live/seixas/seixas/228.m3u8
+#EXTINF:-1,FIGHT NETWORK
+http://painel.soeu.ws:8000/live/seixas/seixas/705.m3u8
+#EXTINF:-1,OUTDOOR
+http://painel.soeu.ws:8000/live/seixas/seixas/784.m3u8
+#EXTINF:-1,MOTORVISION
+http://painel.soeu.ws:8000/live/seixas/seixas/206.m3u8
+#EXTINF:-1,MOTORS TV
+http://painel.soeu.ws:8000/live/seixas/seixas/214.m3u8
+#EXTINF:-1,FUEL TV
+http://painel.soeu.ws:8000/live/seixas/seixas/276.m3u8
+#EXTINF:-1,CAÇA E PESCA
+http://painel.soeu.ws:8000/live/seixas/seixas/208.m3u8
+#EXTINF:-1,CACAVISION
+http://painel.soeu.ws:8000/live/seixas/seixas/216.m3u8
+#EXTINF:-1,TOROS TV
+http://painel.soeu.ws:8000/live/seixas/seixas/278.m3u8
+#EXTINF:-1,DOG TV
+http://painel.soeu.ws:8000/live/seixas/seixas/706.m3u8
+#EXTINF:-1,TVCINE 1 HD
+http://painel.soeu.ws:8000/live/seixas/seixas/229.m3u8
+#EXTINF:-1,TVCINE 2 HD
+http://painel.soeu.ws:8000/live/seixas/seixas/230.m3u8
+#EXTINF:-1,TVCINE 3 HD
+http://painel.soeu.ws:8000/live/seixas/seixas/231.m3u8
+#EXTINF:-1,TVCINE 4 HD
+http://painel.soeu.ws:8000/live/seixas/seixas/232.m3u8
+#EXTINF:-1,TV SERIES HD
+http://painel.soeu.ws:8000/live/seixas/seixas/233.m3u8
+#EXTINF:-1,AMC
+http://painel.soeu.ws:8000/live/seixas/seixas/522.m3u8
+#EXTINF:-1,CINEMUNDO
+http://painel.soeu.ws:8000/live/seixas/seixas/523.m3u8
+#EXTINF:-1,MOV HD
+http://painel.soeu.ws:8000/live/seixas/seixas/521.m3u8
+#EXTINF:-1,FOX HD
+http://painel.soeu.ws:8000/live/seixas/seixas/215.m3u8
+#EXTINF:-1,FOX LIFE HD
+http://painel.soeu.ws:8000/live/seixas/seixas/235.m3u8
+#EXTINF:-1,FOX MOVIES
+http://painel.soeu.ws:8000/live/seixas/seixas/513.m3u8
+#EXTINF:-1,FOX CRIME HD
+http://painel.soeu.ws:8000/live/seixas/seixas/236.m3u8
+#EXTINF:-1,FOX COMEDY
+http://painel.soeu.ws:8000/live/seixas/seixas/693.m3u8
+#EXTINF:-1,AXN HD
+http://painel.soeu.ws:8000/live/seixas/seixas/217.m3u8
+#EXTINF:-1,AXN WHITE HD
+http://painel.soeu.ws:8000/live/seixas/seixas/237.m3u8
+#EXTINF:-1,AXN BLACK HD
+http://painel.soeu.ws:8000/live/seixas/seixas/238.m3u8
+#EXTINF:-1,HOLLYWOOD HD
+http://painel.soeu.ws:8000/live/seixas/seixas/234.m3u8
+#EXTINF:-1,SUNDANCE
+http://painel.soeu.ws:8000/live/seixas/seixas/780.m3u8
+#EXTINF:-1,SYFY
+http://painel.soeu.ws:8000/live/seixas/seixas/182.m3u8
+#EXTINF:-1,NAT. GEOGRAPHIC
+http://painel.soeu.ws:8000/live/seixas/seixas/211.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://painel.soeu.ws:8000/live/seixas/seixas/242.m3u8
+#EXTINF:-1,DISCOVERY SHOWCASE
+http://painel.soeu.ws:8000/live/seixas/seixas/514.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://painel.soeu.ws:8000/live/seixas/seixas/180.m3u8
+#EXTINF:-1,TRAVEL CHANNEL
+http://painel.soeu.ws:8000/live/seixas/seixas/509.m3u8
+#EXTINF:-1,M6
+http://painel.soeu.ws:8000/live/seixas/seixas/691.m3u8
+#EXTINF:-1,FRANCE 24
+http://painel.soeu.ws:8000/live/seixas/seixas/785.m3u8
+#EXTINF:-1,24 KITCHEN
+http://painel.soeu.ws:8000/live/seixas/seixas/241.m3u8
+#EXTINF:-1,FOOD NETWORK
+http://painel.soeu.ws:8000/live/seixas/seixas/695.m3u8
+#EXTINF:-1,FASHION TV
+http://painel.soeu.ws:8000/live/seixas/seixas/696.m3u8
+#EXTINF:-1,LUXE TV
+http://painel.soeu.ws:8000/live/seixas/seixas/783.m3u8
+#EXTINF:-1,TLC
+http://painel.soeu.ws:8000/live/seixas/seixas/240.m3u8
+#EXTINF:-1,E! ENTERTAINMENT
+http://painel.soeu.ws:8000/live/seixas/seixas/239.m3u8
+#EXTINF:-1,A & E
+http://painel.soeu.ws:8000/live/seixas/seixas/284.m3u8
+#EXTINF:-1,CANAL HISTORIA
+http://painel.soeu.ws:8000/live/seixas/seixas/516.m3u8
+#EXTINF:-1,CBS REALITY
+http://painel.soeu.ws:8000/live/seixas/seixas/517.m3u8
+#EXTINF:-1,BBC ENTERTAINMENT
+http://painel.soeu.ws:8000/live/seixas/seixas/789.m3u8
+#EXTINF:-1,ODISSEIA
+http://painel.soeu.ws:8000/live/seixas/seixas/280.m3u8
+#EXTINF:-1,MTV PORTUGAL
+http://painel.soeu.ws:8000/live/seixas/seixas/692.m3u8
+#EXTINF:-1,VH1
+http://painel.soeu.ws:8000/live/seixas/seixas/277.m3u8
+#EXTINF:-1,MCM POP
+http://painel.soeu.ws:8000/live/seixas/seixas/788.m3u8
+#EXTINF:-1,TRACE TV
+http://painel.soeu.ws:8000/live/seixas/seixas/787.m3u8
+#EXTINF:-1,iCONCERTS
+http://painel.soeu.ws:8000/live/seixas/seixas/704.m3u8
+#EXTINF:-1,AFRO TV
+http://painel.soeu.ws:8000/live/seixas/seixas/515.m3u8
+#EXTINF:-1,VEVO NASHVILE
+http://painel.soeu.ws:8000/live/seixas/seixas/701.m3u8
+#EXTINF:-1,VEVO HITS
+http://painel.soeu.ws:8000/live/seixas/seixas/702.m3u8
+#EXTINF:-1,VEVO FLW
+http://painel.soeu.ws:8000/live/seixas/seixas/703.m3u8
+#EXTINF:-1,MEZZO
+http://painel.soeu.ws:8000/live/seixas/seixas/781.m3u8
+#EXTINF:-1,SIC K
+http://painel.soeu.ws:8000/live/seixas/seixas/188.m3u8
+#EXTINF:-1,NICKELODEON
+http://painel.soeu.ws:8000/live/seixas/seixas/205.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://painel.soeu.ws:8000/live/seixas/seixas/519.m3u8
+#EXTINF:-1,CANAL PANDA
+http://painel.soeu.ws:8000/live/seixas/seixas/283.m3u8
+#EXTINF:-1,PANDA BIGGS
+http://painel.soeu.ws:8000/live/seixas/seixas/279.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://painel.soeu.ws:8000/live/seixas/seixas/282.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://painel.soeu.ws:8000/live/seixas/seixas/243.m3u8
+#EXTINF:-1,JIM JAM
+http://painel.soeu.ws:8000/live/seixas/seixas/281.m3u8
+#EXTINF:-1,BABY TV
+http://painel.soeu.ws:8000/live/seixas/seixas/187.m3u8
+#EXTINF:-1,SEXTREME
+http://painel.soeu.ws:8000/live/seixas/seixas/690.m3u8
+#EXTINF:-1,PENTHOUSE
+http://painel.soeu.ws:8000/live/seixas/seixas/510.m3u8
+#EXTINF:-1,VENUS
+http://painel.soeu.ws:8000/live/seixas/seixas/181.m3u8
+#EXTINF:-1,PLAYBOY XX
+http://painel.soeu.ws:8000/live/seixas/seixas/304.m3u8
+#EXTINF:-1,XXX HOT XXX
+http://painel.soeu.ws:8000/live/seixas/seixas/244.m3u8
+#EXTINF:-1,############# CANAIS EXTRA #############
+http://painel.soeu.ws:8000/live/seixas/seixas/524.m3u8
+#EXTINF:-1,BR:TV ABCD
+http://painel.soeu.ws:8000/live/seixas/seixas/772.m3u8
+#EXTINF:-1,BR: Woohoo
+http://painel.soeu.ws:8000/live/seixas/seixas/773.m3u8
+#EXTINF:-1,BR: SESC TV
+http://painel.soeu.ws:8000/live/seixas/seixas/777.m3u8
+#EXTINF:-1,BR: TVE BAHIA HD
+http://painel.soeu.ws:8000/live/seixas/seixas/774.m3u8
+#EXTINF:-1,BR: TV BRASIL INTERNACIONAL
+http://painel.soeu.ws:8000/live/seixas/seixas/775.m3u8
+#EXTINF:-1,BR: STB
+http://painel.soeu.ws:8000/live/seixas/seixas/776.m3u8
+#EXTINF:-1,ES: Canal  1
+http://painel.soeu.ws:8000/live/seixas/seixas/768.m3u8
+#EXTINF:-1,ES: Calle 13
+http://painel.soeu.ws:8000/live/seixas/seixas/769.m3u8
+#EXTINF:-1,ES: Barça TV
+http://painel.soeu.ws:8000/live/seixas/seixas/771.m3u8
+#EXTINF:-1,ES: TV Galicia
+http://painel.soeu.ws:8000/live/seixas/seixas/757.m3u8
+#EXTINF:-1,ES: TELECINCO HD
+http://painel.soeu.ws:8000/live/seixas/seixas/758.m3u8
+#EXTINF:-1,ES: beIN Sport Ñ
+http://painel.soeu.ws:8000/live/seixas/seixas/770.m3u8
+#EXTINF:-1,ES: Canal de las Estrellas
+http://painel.soeu.ws:8000/live/seixas/seixas/763.m3u8
+#EXTINF:-1,ES: Canal  liga 2
+http://painel.soeu.ws:8000/live/seixas/seixas/764.m3u8
+#EXTINF:-1,ES: Canal  Liga
+http://painel.soeu.ws:8000/live/seixas/seixas/765.m3u8
+#EXTINF:-1,ES: Canal  Golf HD
+http://painel.soeu.ws:8000/live/seixas/seixas/766.m3u8
+#EXTINF:-1,ES: Movistar MotoGP
+http://painel.soeu.ws:8000/live/seixas/seixas/760.m3u8
+#EXTINF:-1,ES: Movistar F1
+http://painel.soeu.ws:8000/live/seixas/seixas/761.m3u8
+#EXTINF:-1,ES: Real Madrid TV
+http://painel.soeu.ws:8000/live/seixas/seixas/759.m3u8
+#EXTINF:-1,FR: Canal
+http://painel.soeu.ws:8000/live/seixas/seixas/753.m3u8
+#EXTINF:-1,FR: TF1 HD
+http://painel.soeu.ws:8000/live/seixas/seixas/742.m3u8
+#EXTINF:-1,FR: France 2
+http://painel.soeu.ws:8000/live/seixas/seixas/750.m3u8
+#EXTINF:-1,FR: France 3
+http://painel.soeu.ws:8000/live/seixas/seixas/749.m3u8
+#EXTINF:-1,FR: France 4
+http://painel.soeu.ws:8000/live/seixas/seixas/748.m3u8
+#EXTINF:-1,FR: France 5
+http://painel.soeu.ws:8000/live/seixas/seixas/747.m3u8
+#EXTINF:-1,FR: France O
+http://painel.soeu.ws:8000/live/seixas/seixas/746.m3u8
+#EXTINF:-1,FR: NRJ 12
+http://painel.soeu.ws:8000/live/seixas/seixas/743.m3u8
+#EXTINF:-1,FR: M6
+http://painel.soeu.ws:8000/live/seixas/seixas/744.m3u8
+#EXTINF:-1,FR: Eurosport 1
+http://painel.soeu.ws:8000/live/seixas/seixas/751.m3u8
+#EXTINF:-1,FR: Canal  Sport
+http://painel.soeu.ws:8000/live/seixas/seixas/752.m3u8
+#EXTINF:-1,FR: Bein Sports 1
+http://painel.soeu.ws:8000/live/seixas/seixas/756.m3u8
+#EXTINF:-1,FR: Bein Sports 2
+http://painel.soeu.ws:8000/live/seixas/seixas/755.m3u8
+#EXTINF:-1,FR: Bein Sports 3
+http://painel.soeu.ws:8000/live/seixas/seixas/754.m3u8
+#EXTINF:-1,FR: W9
+http://painel.soeu.ws:8000/live/seixas/seixas/741.m3u8
+#EXTINF:-1,FR: InfoSport
+http://painel.soeu.ws:8000/live/seixas/seixas/745.m3u8
+#EXTINF:-1,UK: BBC 1
+http://painel.soeu.ws:8000/live/seixas/seixas/740.m3u8
+#EXTINF:-1,UK: BBC 2
+http://painel.soeu.ws:8000/live/seixas/seixas/739.m3u8
+#EXTINF:-1,UK: BBC 3
+http://painel.soeu.ws:8000/live/seixas/seixas/738.m3u8
+#EXTINF:-1,UK: BBC 4
+http://painel.soeu.ws:8000/live/seixas/seixas/737.m3u8
+#EXTINF:-1,UK: ITV1
+http://painel.soeu.ws:8000/live/seixas/seixas/726.m3u8
+#EXTINF:-1,UK: ITV2
+http://painel.soeu.ws:8000/live/seixas/seixas/725.m3u8
+#EXTINF:-1,UK: ITV3
+http://painel.soeu.ws:8000/live/seixas/seixas/724.m3u8
+#EXTINF:-1,UK: ITV4
+http://painel.soeu.ws:8000/live/seixas/seixas/723.m3u8
+#EXTINF:-1,UK: CTH stadium 1 HD
+http://painel.soeu.ws:8000/live/seixas/seixas/733.m3u8
+#EXTINF:-1,UK: CTH stadium 2 HD
+http://painel.soeu.ws:8000/live/seixas/seixas/732.m3u8
+#EXTINF:-1,UK: CTH STADIUM 3
+http://painel.soeu.ws:8000/live/seixas/seixas/731.m3u8
+#EXTINF:-1,UK: CTH stadium 4 HD
+http://painel.soeu.ws:8000/live/seixas/seixas/730.m3u8
+#EXTINF:-1,UK: CTH stadium 5 HD
+http://painel.soeu.ws:8000/live/seixas/seixas/729.m3u8
+#EXTINF:-1,UK: CTH stadium 6 HD
+http://painel.soeu.ws:8000/live/seixas/seixas/728.m3u8
+#EXTINF:-1,UK: BT Sport Europe HD
+http://painel.soeu.ws:8000/live/seixas/seixas/734.m3u8
+#EXTINF:-1,UK: BT Sport 1 HD
+http://painel.soeu.ws:8000/live/seixas/seixas/736.m3u8
+#EXTINF:-1,UK: BT Sport 2 HD
+http://painel.soeu.ws:8000/live/seixas/seixas/735.m3u8
+#EXTINF:-1,UK: Manchester United TV
+http://painel.soeu.ws:8000/live/seixas/seixas/722.m3u8
+#EXTINF:-1,UK: ESPN HD
+http://painel.soeu.ws:8000/live/seixas/seixas/727.m3u8
+#EXTINF:-1,UK: Sky Sports 1 HD
+http://painel.soeu.ws:8000/live/seixas/seixas/721.m3u8
+#EXTINF:-1,UK: Sky Sports 2 HD
+http://painel.soeu.ws:8000/live/seixas/seixas/720.m3u8
+#EXTINF:-1,UK: Sky Sports 3 HD
+http://painel.soeu.ws:8000/live/seixas/seixas/719.m3u8
+#EXTINF:-1,UK: Sky Sports 4 HD
+http://painel.soeu.ws:8000/live/seixas/seixas/718.m3u8
+#EXTINF:-1,UK: Sky Sports 5 HD
+http://painel.soeu.ws:8000/live/seixas/seixas/717.m3u8
+#EXTINF:-1,UK: Sky Sports F1 HD
+http://painel.soeu.ws:8000/live/seixas/seixas/716.m3u8
+#EXTINF:-1,UK: Sky Sports News
+http://painel.soeu.ws:8000/live/seixas/seixas/715.m3u8
+#EXTINF:-1,xXx: Hot Club 1
+http://painel.soeu.ws:8000/live/seixas/seixas/714.m3u8
+#EXTINF:-1,xXx: Hot Club 2
+http://painel.soeu.ws:8000/live/seixas/seixas/713.m3u8
+#EXTINF:-1,xXx: Hot Club 3
+http://painel.soeu.ws:8000/live/seixas/seixas/712.m3u8
+#EXTINF:-1,xXx: Hot Club 4
+http://painel.soeu.ws:8000/live/seixas/seixas/711.m3u8
+#EXTINF:-1,xXx: Hot Club 5
+http://painel.soeu.ws:8000/live/seixas/seixas/710.m3u8
+#EXTINF:-1,xXx: Hot Club 6
+http://painel.soeu.ws:8000/live/seixas/seixas/709.m3u8
+#EXTINF:-1,xXx: Hot Club 7
+http://painel.soeu.ws:8000/live/seixas/seixas/708.m3u8
+#EXTINF:-1,######### FIM #############
+http://painel.soeu.ws:8000/live/seixas/seixas/290.m3u8
