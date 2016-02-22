@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:0,[B][COLOR cyan]P L A Y   K O D I[/COLOR] - [COLOR lightgreen]13-NOV-2015[/COLOR] - [COLOR orange]HPEREZ[/COLOR][/B]
-#EXTINF:0,[COLOR yellow][B]== ENTRETENIMIENTO ==[/B][/COLOR]
 #EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="telemundo.png" group-title="Entretenimiento",Telemundo
 http://iphone-streaming.ustream.tv:80/uhls/20720323/streams/live/playlist.m3u8
 #EXTINF:-1,tvg-id="TeVEO Miami" tvg-name="TeVEO Miami" tvg-logo="TeVeo Miami.png" group-title="Entretenimiento",Teveo Miami
